@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development,DBMS**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://rasmiranjan67.github.io/shark-portfolio-rasmi/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
