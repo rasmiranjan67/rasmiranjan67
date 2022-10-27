@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development,DBMS**
+- 💬 Ask me about **Web Development,DBMS,Andriod**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://rasmiranjan67.github.io/shark-portfolio-rasmi/" target="_blank">Portfolio</a>**
 
